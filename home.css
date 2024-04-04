@@ -1,0 +1,10 @@
+.box{
+    padding: 30px 20px;
+}
+.box-part{
+    background-color: gray;
+    text-align: center;
+}
+.fa{
+    color: blue;
+}
